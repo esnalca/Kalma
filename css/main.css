@@ -63,6 +63,9 @@ header
 {
     background-color: rgb(205,37,121);
 }
+body{
+    padding-top: 51px;
+}
 .tamtext1{
     color: white;
     font-family: 'Tangerine', serif;
