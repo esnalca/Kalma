@@ -59,18 +59,25 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.adaptar{
+    width: 100%;
+}
+body{
+    padding-top: 60px;
+}
+.fondom{
+    background-color: rgb(205,37,121);
+}
 header
 {
     background-color: rgb(205,37,121);
-}
-body{
-    padding-top: 51px;
 }
 .tamtext1{
     color: white;
     font-family: 'Tangerine', serif;
     text-shadow: 4px 4px 4px #aaa;
-    font-size: 80px;
+    font-size: 120px;
+    text-align: center;
 }
 .tamtext2{
     color: white;
@@ -78,24 +85,20 @@ body{
     text-shadow: 4px 4px 4px #aaa;
     font-size: 25px;
 }
-.fondom{
-    background-color: rgb(205,37,121);
-}
-.centrar
-{
-    padding-top: 45px;
-    padding-left: 100px;
-}
-.adaptar{
-    width: 100%;
+.tam{
+    width: 45px;
+    height: 45px;
 }
 .logme{
     font-family: 'Tangerine', serif;
     text-shadow: 4px 4px 4px #aaa;
     font-size: 40px;
+
 }
 .separar{
-    margin-left: 15%;
+    float: left;
+    margin-left: 12%;
+    margin-top: 10px;
 }
 .tamtext{
     font-size: 30px;
