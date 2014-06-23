@@ -3215,6 +3215,7 @@ input[type="button"].btn-block {
 
 .dropdown {
   position: relative;
+  background-color: rgb(205,37,121);
 }
 
 .dropdown-toggle:focus {
@@ -3233,7 +3234,7 @@ input[type="button"].btn-block {
   margin: 2px 0 0;
   font-size: 14px;
   list-style: none;
-  background-color: #ffffff;
+  background-color: rgb(205,37,121);
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -3251,7 +3252,7 @@ input[type="button"].btn-block {
   height: 1px;
   margin: 9px 0;
   overflow: hidden;
-  background-color: #e5e5e5;
+  background-color: rgb(205,37,121);
 }
 
 .dropdown-menu > li > a {
@@ -3260,7 +3261,7 @@ input[type="button"].btn-block {
   clear: both;
   font-weight: normal;
   line-height: 1.428571429;
-  color: #333333;
+  color: white;
   white-space: nowrap;
 }
 
@@ -4380,7 +4381,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-brand {
-  color: #777777;
+  color: white;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -4394,7 +4395,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #777777;
+  color: white;
 }
 
 .navbar-default .navbar-nav > li > a:hover,

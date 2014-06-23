@@ -65,15 +65,19 @@ textarea {
 body{
     padding-top: 60px;
 }
+.centro{
+    width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-radius: 50px;
+}
 .fondom{
     background-color: rgb(205,37,121);
 }
-header
-{
-    background-color: rgb(205,37,121);
-}
 .tamtext1{
-    color: white;
+    color: black;
     font-family: 'Tangerine', serif;
     text-shadow: 4px 4px 4px #aaa;
     font-size: 120px;
@@ -88,6 +92,10 @@ header
 .tam{
     width: 45px;
     height: 45px;
+}
+.tamlog{
+    width: 500px;
+    height: 250px;
 }
 .logme{
     font-family: 'Tangerine', serif;
