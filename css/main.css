@@ -65,25 +65,26 @@ textarea {
 body{
     padding-top: 60px;
 }
-.centro{
-    width: 600px;
+.slide{
+    width: 70%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 .centro img{
+    width: 400px;
+    height: 200px;
     margin-bottom: 10px;
     margin-top: 30px;
-    border-radius: 10px;
+    border-radius: 10px;    
+    margin-left: auto;
+    margin-right: auto;
 }
 .fondom{
     background-color: rgb(205,37,121);
 }
-.tamtext1{
-    color: black;
-    font-family: 'Tangerine', serif;
-    text-shadow: 4px 4px 4px #aaa;
-    font-size: 120px;
-    text-align: center;
+.tamtextf{
+    color: white;
 }
 .tamtext2{
     color: white;
