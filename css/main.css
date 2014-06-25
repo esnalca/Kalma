@@ -92,6 +92,11 @@ body{
     text-shadow: 4px 4px 4px #aaa;
     font-size: 25px;
 }
+.tamtext2 li a:hover{
+    border: 1px solid black;
+    background: black;
+    color: white
+}
 .tam{
     width: 45px;
     height: 45px;
