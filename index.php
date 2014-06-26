@@ -2,7 +2,7 @@
 include("includes/header.php");
 include("includes/conexion.php");
 
-$sql="SELECT * FROM anupor";
+$sql="SELECT * FROM anupor ORDER BY id DESC LIMIT 3";
 $res=mysqli_query($link,$sql);
 $num=mysqli_num_rows($res);
 ?>
