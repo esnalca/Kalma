@@ -93,9 +93,12 @@ body{
     font-size: 25px;
 }
 .tamtext2 li a:hover{
-    border: 1px solid black;
-    background: black;
-    color: white
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px #aaa;
+    background: 
+}
+.tamtext3{
+    font-size: 14px;
 }
 .tam{
     width: 45px;
