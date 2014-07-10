@@ -47,7 +47,7 @@
                     <li><a href="ofertas.html">Ofertas</a></li>
                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Tratamientos <b class="caret"></b></a>
                         <ul class="dropdown-menu tamtext2 ">
-                            <li><a href="faciales.html">Faciales</a></li>
+                            <li><a href="trat/fac.php">Faciales</a></li>
                             <li><a href="corporales.html">Corporales</a></li>
                             <li><a href="Masajes.html">Masajes</a></li>
                         </ul>

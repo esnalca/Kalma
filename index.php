@@ -1,4 +1,4 @@
-<?
+<?php
 include("includes/header.php");
 include("includes/conexion.php");
 
@@ -34,7 +34,7 @@ $num=mysqli_num_rows($res);
             </section>
             <section>
                 <div class="row">
-                   <?
+                   <?php
                     while ($fila=mysqli_fetch_assoc($res)) {
                     ?>
                     <div class="col-lg-4">
@@ -50,11 +50,11 @@ $num=mysqli_num_rows($res);
                             </div>
                         </div>
                     </div> 
-                    <?
+                    <?php
                         }
                     ?>
                 </div>
             </section>
-<?
+<?php
 include("includes/footer.php");
 ?>
